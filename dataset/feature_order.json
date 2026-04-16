@@ -1,0 +1,18 @@
+[
+  "LapNumber",
+  "Stint",
+  "TyreLife",
+  "Position",
+  "LapTime (s)",
+  "LapTime_Delta",
+  "Cumulative_Degradation",
+  "RaceProgress",
+  "Position_Change",
+  "Degradation_Rate",
+  "Compound_HARD",
+  "Compound_INTERMEDIATE",
+  "Compound_MEDIUM",
+  "Compound_SOFT",
+  "Compound_WET",
+  "Driver_encoded"
+]

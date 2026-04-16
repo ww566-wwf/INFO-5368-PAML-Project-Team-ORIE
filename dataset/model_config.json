@@ -1,0 +1,15 @@
+{
+  "selected_model": "ann_1layer",
+  "threshold": 0.241768143866825,
+  "layer_sizes": [
+    16,
+    128,
+    1
+  ],
+  "test_f1": 0.6262553225676869,
+  "all_thresholds": {
+    "lr": 0.2423694040734909,
+    "ann_1layer": 0.241768143866825
+  },
+  "seed": 5368
+}
